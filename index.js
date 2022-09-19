@@ -25,6 +25,22 @@
 
 // -------------------------------------------------
 
+// // // Primitive Types
+
+// // String
+// // Number
+// // Boolean
+// // undefined
+// // null
+
+// let name = 'Mosh'; // String Literal
+// let age = 30; // Number Literal
+// let isApproved = true; // Boolean Literal
+// let firtName = undefined; 
+// let selectedColor = null;
+
+// -------------------------------------------------
+
 // // // Arithmetic Operators
 
 // let x = 10;
