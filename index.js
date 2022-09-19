@@ -367,3 +367,19 @@
 // console.log(color);
 
 // -------------------------------------------------
+
+// // // Break and Continue
+
+// let i = 0;
+// while (i <= 10) {
+//     // if (i === 5) break; // we jump out of the loop
+
+//     if (i % 2 === 0){
+//         i++;
+//         continue; // we jump to the next iteration
+//     }
+//     console.log(i);
+//     i++;
+// }
+
+// -------------------------------------------------
