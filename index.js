@@ -41,6 +41,33 @@
 
 // -------------------------------------------------
 
+// // // Objects
+
+// // Object is Reference Type
+// // When dealing with multiple related variable, object is declared, where it has several properties.
+
+// let name = 'Mosh';
+// let age = 30;
+
+// let person = {
+//     name: 'Most',
+//     age: 30
+// }
+
+// console.log(person);
+
+// // Dot Notation
+// person.name = 'John';
+
+// console.log(person.name);
+
+// // Bracket Notation
+// person['name'] = 'Mary';
+
+// console.log(person['name'])
+
+// -------------------------------------------------
+
 // // // Arithmetic Operators
 
 // let x = 10;
