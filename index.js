@@ -1,3 +1,19 @@
+// // // Variables
+
+let name = "Mosh";
+console.log(name);
+
+// Cannot be a reserved keyword
+// Should be meaningful
+// Cannot start with number (1name)
+// Cannot contain a space or hyphen (-)
+// Are case-sensitive
+
+let firstName = 'Mosh';
+let lastName = 'Hamedani';
+
+// -------------------------------------------------
+
 // // // Arithmetic Operators
 
 // let x = 10;
@@ -193,7 +209,7 @@
 
 // // let i = 0;
 // // while (i<5){
-// //     console.log(i); 
+// //     console.log(i);
 // // }
 
 // while (true) {
@@ -231,4 +247,3 @@
 // }
 
 // -------------------------------------------------
-
