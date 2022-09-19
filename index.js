@@ -68,6 +68,25 @@
 
 // -------------------------------------------------
 
+// // // Arrays
+
+// // Array is Reference Type
+// // Arry is an Object.
+// // When dealing with list of elements, array is declared.
+
+// let selectedColors = ['red', 'blue'];
+// console.log(selectedColors[0]); // displays 'red'
+
+// // Lenght of an array are dymanic.
+
+// selectedColors[2] = 'green';
+// console.log(selectedColors);
+
+// selectedColors[2] = 1;
+// console.log(selectedColors);
+
+// -------------------------------------------------
+
 // // // Arithmetic Operators
 
 // let x = 10;
