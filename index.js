@@ -187,4 +187,25 @@
 
 // -------------------------------------------------
 
-// // // 
+// // // Infinite Loops
+
+// // Before uncommenting, run the file in a seperate window, or else the brower will crash.
+
+// // let i = 0;
+// // while (i<5){
+// //     console.log(i); 
+// // }
+
+// while (true) {
+// }
+
+// do {
+// } while (x<5)
+
+// for (let i = 0; i < 10){
+// }
+
+// -------------------------------------------------
+
+// // // For...in
+
