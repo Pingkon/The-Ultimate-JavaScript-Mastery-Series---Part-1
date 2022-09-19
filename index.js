@@ -332,6 +332,8 @@
 
 // // // For...in
 
+// // Iterate over the properties of an Object
+
 // const person = {
 //     name: 'Mosh',
 //     age: 30
@@ -352,5 +354,16 @@
 // for (let index in colors) {
 //     console.log(index, colors[index]);
 // }
+
+// -------------------------------------------------
+
+// // // For...of
+
+// // Iterate item/elements of an Array
+
+// const colors = ['red', 'green', 'blue'];
+
+// for (let color of colors)
+// console.log(color);
 
 // -------------------------------------------------
