@@ -28,6 +28,8 @@
 // console.log(x--); // decremented later
 // console.log(x);
 
+// -------------------------------------------------
+
 // // // Assignment Operators
 
 // let x = 10;
@@ -37,6 +39,8 @@
 
 // x = x * 3;
 // x *= 3;
+
+// -------------------------------------------------
 
 // // // Comparison Operators
 
@@ -52,6 +56,8 @@
 // console.log(x === 1);
 // console.log(x !== 1);
 
+// -------------------------------------------------
+
 // // // Ternary Operator
 
 // // If a customer has more than 100 points, they are a 'gold' customer, otherwise, they are a 'silver' customer.
@@ -60,6 +66,8 @@
 // let type = points > 100 ? 'gold' : 'silver';
 
 // console.log(typle);
+
+// -------------------------------------------------
 
 // // // Logical Operators with Non-booleans
 
@@ -82,3 +90,58 @@
 // let currentColor = userColor || defaultColor;
 
 // console.log(currentColor);
+
+// -------------------------------------------------
+
+// // // Operators Precedence
+
+// let x = 2 + 3 * 4; // PEDMAS
+// let y = (2 + 3) * 4; // PEDMAS
+
+// console.log(x);
+// console.log(y);
+
+// -------------------------------------------------
+
+// // // If...else
+
+// // Hour
+// // If hour is between 6am and 12pm: Good morning!
+// // If it is between 12pm and 6pm: Good afternoon!
+// // Otherwise: Good evening;
+
+// let hour = 14;
+
+// if (hour>=6 && hour < 12) {
+//     console.log('Good morning');
+// }
+
+// else if (hour>=12 && hour < 18) {
+//     console.log('Good afternoon');
+// }
+
+// else {
+//     console.log('Good evening');
+// }
+
+// -------------------------------------------------
+
+// // // Switch...case
+
+// let role = 'guest';
+
+// switch (role) {
+//     case 'guest' :
+//         console.log('Guest User');
+//         break;
+    
+//     case 'moderator' :
+//         console.log('Moderaor User');
+//         break;
+    
+//     default:
+//         console.log('Unknown User');
+// }
+
+// -------------------------------------------------
+
