@@ -1,16 +1,27 @@
 // // // Variables
 
-let name = "Mosh";
-console.log(name);
+// let name = "Mosh";
+// console.log(name);
 
-// Cannot be a reserved keyword
-// Should be meaningful
-// Cannot start with number (1name)
-// Cannot contain a space or hyphen (-)
-// Are case-sensitive
+// // Cannot be a reserved keyword
+// // Should be meaningful
+// // Cannot start with number (1name)
+// // Cannot contain a space or hyphen (-)
+// // Are case-sensitive
 
-let firstName = 'Mosh';
-let lastName = 'Hamedani';
+// let firstName = 'Mosh';
+// let lastName = 'Hamedani';
+
+// -------------------------------------------------
+
+// // // Constants
+
+// // Willing to not let the value of a variable to change or reassigned.
+
+// const interestRate = 0.3;
+// console.log(interestRate);
+// // interestRate = 1; // Must throw an error
+// // console.log(interestRate);
 
 // -------------------------------------------------
 
