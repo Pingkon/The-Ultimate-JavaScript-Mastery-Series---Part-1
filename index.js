@@ -87,6 +87,40 @@
 
 // -------------------------------------------------
 
+// // // Functions
+
+// //Performing a task
+
+// function greet(name) {
+//     console.log('Hello ' + name);
+// }
+// // name (the variable inside the parentheses while declaring the function) is called the parameter
+
+// greet('John');
+// // 'John' (the text/value inside the parentheses while callinng the function) is called the arguement
+
+// greet('Mary');
+
+// function greetings(name, lastName) {
+//     console.log('Hello ' + name + ' ' + lastName);
+// }
+
+// greetings('John', 'Smith');
+
+// -------------------------------------------------
+
+// // // Types of Functions
+
+// // Calculating a value
+
+// function square(number) {
+//     return number*number;
+// }
+
+// console.log(square(2))
+
+// -------------------------------------------------
+
 // // // Arithmetic Operators
 
 // let x = 10;
