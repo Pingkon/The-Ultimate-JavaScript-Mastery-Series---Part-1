@@ -383,3 +383,49 @@
 // }
 
 // -------------------------------------------------
+
+// // // Exercise 1- Max of Two Nummbers
+
+// // Write a function that take two numbers and returns the maximum of the two.
+
+// function maxOfTwoNumbers (a, b) {
+//     // if (a >= b) return a;
+    
+//     // return b;
+
+//     return (a >= b) ? a : b; // cleaner version
+// }
+
+// console.log(maxOfTwoNumbers(100, 57));
+
+// -------------------------------------------------
+
+// // // Exercise 2- Landscape or Portrait
+
+// function isLandscape (width, height) {
+//     return (width > height) ? true : false;
+// }
+
+// console.log(isLandscape(500, 300));
+
+// -------------------------------------------------
+
+// // // Exercise 3- FizzBuzz
+
+// // Divisible by 3 => Fizz
+// // Divisible by 5 => Buzz
+// //Divisible by both 3 and 5 => FizzBuzz
+// // Not divisible by 3 or 5 => input
+// // Not a number => 'Not a number'
+
+// const output = fizzBuzz(5);
+// console.log(output);
+
+// function fizzBuzz(input) {
+//     if (typeof input !== 'number')  return 'Not a number'
+//     else if (input % 5 === 0 && input % 3 === 0) return 'FizzBuzz';
+//     else if (input % 3 === 0) return 'Fizz';
+//     else if (input % 5 === 0) return 'Buzz';
+// }
+
+// -------------------------------------------------
