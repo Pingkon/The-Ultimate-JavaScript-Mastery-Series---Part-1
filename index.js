@@ -454,3 +454,15 @@
 // checkSpeed(130);
 
 // -------------------------------------------------
+
+// // // Exercise 5- Even and Odd Numbers
+
+// function showNumbers(limit) {
+//     for (let i = 0; i <= limit; i++) {
+//         console.log((i % 2 === 0) ? i + ' "EVEN"' : i + ' "ODD"');
+//     }
+// }
+
+// showNumbers(10)
+
+// -------------------------------------------------
