@@ -466,3 +466,23 @@
 // showNumbers(10)
 
 // -------------------------------------------------
+
+// // // Exercise 6- Count Truthy
+
+// const array = [0, 0, 5, 10, 4, 1, 2, 3];
+// let count = 0;
+
+// function countTruthy (array) {
+//     for (let value of array) {
+//         if (value) {
+//             count++;
+//         }
+//     }
+//     return count;
+// }
+
+// console.log(countTruthy(array));
+
+// -------------------------------------------------
+
+// // // Exercise 7- String Properties
