@@ -521,3 +521,41 @@
 // }
 
 // -------------------------------------------------
+
+// // // Exercise 9- Grade
+
+// const marks = [40, 40, 10];
+
+// calculatorGrade(marks);
+
+// function calculatorGrade(marks) {
+//     let score = 0;
+//     let average = 0;
+//     for (let value of marks) {
+//         score+=value;
+//     }
+
+//     average = score/marks.length;
+
+//     console.log(average);
+
+//     if (average>=90 && average<=100) {
+//         console.log('A');
+//     }
+
+//     else if (average>=80 && average<=89) {
+//         console.log('B');
+//     }
+
+//     else if (average>=70 && average<=79) {
+//         console.log('C');
+//     }
+
+//     else if (average>=60 && average<=69) {
+//         console.log('D');
+//     }
+
+//     else console.log('F');
+// }
+
+// -------------------------------------------------
